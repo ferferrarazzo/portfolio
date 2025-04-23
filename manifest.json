@@ -1,0 +1,27 @@
+{
+  "short_name": "FernandoPortfolio",
+  "name": "Fernando Ferrarazzo | Software Engineer Portfolio",
+  "icons": [
+    {
+      "src": "my-logo.png",
+      "sizes": "32x32 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "my-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "my-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#6c63ff",
+  "background_color": "#ffffff",
+  "description": "Portfolio showcasing the work, skills, and projects of Fernando Ferrarazzo, a software engineer specializing in modern frameworks, system modernization, and immersive solutions.",
+  "lang": "en-US"
+}
