@@ -40,9 +40,10 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <Button
-                    download="Fernando - Resume.pdf"
-                    className="download-link-button"
-                    href={"/resume.pdf?cache-bust=" + new Date().getTime()}
+                    target= "_blank"
+                    className="resume-button"
+                    href={greeting.resumeLink}
+                    rel="noopener noreferrer"
                     text="Download my resume"
                   />
                 )}
