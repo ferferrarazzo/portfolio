@@ -54,8 +54,13 @@
 }
 
 .greeting-image-div > img {
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
+}
+.greeting-image-div {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* si también querés centrar verticalmente */
 }
 
 .wave-emoji {

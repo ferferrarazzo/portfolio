@@ -1,6 +1,6 @@
 {
-  "short_name": "FranciscoPortfolio",
-  "name": "Francisco Di Giandomenico | Software Engineer Portfolio",
+  "short_name": "FernandoPortfolio",
+  "name": "Fernando Ferrarazzo | Software Engineer Portfolio",
   "icons": [
     {
       "src": "my-logo.png",
@@ -22,6 +22,6 @@
   "display": "standalone",
   "theme_color": "#6c63ff",
   "background_color": "#ffffff",
-  "description": "Portfolio showcasing the work, skills, and projects of Francisco Di Giandomenico, a software engineer specializing in modern frameworks, system modernization, and immersive solutions.",
+  "description": "Portfolio showcasing the work, skills, and projects of Fernando Ferrarazzo, a software engineer specializing in modern frameworks, system modernization, and immersive solutions.",
   "lang": "en-US"
 }
