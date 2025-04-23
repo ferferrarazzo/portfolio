@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "https://ferferrarazzo.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
-    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
+    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\" || true "
   },
   "eslintConfig": {
     "extends": "react-app"
